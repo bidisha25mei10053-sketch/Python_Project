@@ -22,4 +22,5 @@ People enjoy quick logic games that challenge their intuition. This project prov
 ## How to Run
 1. Open terminal and run:
    ```bash
-   python number_guess_game.py![output_example png](https://github.com/user-attachments/assets/59ce142e-13cd-4c65-8b63-c9f555d3da3d)
+   python number_guess_game.py![output_example png](https://github.com/user-attachments/assets/1d86fb8e-cc56-469f-a867-cba5df54520c)
+
